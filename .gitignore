@@ -1,0 +1,7 @@
+.venv/
+.openminion/
+tools/
+llm-debug/
+__pycache__/
+agent/output/triage_store.jsonl
+agent/output/triage_report.md
