@@ -12,6 +12,8 @@ custom OpenAI-compatible provider. No API key, no cloud spend.
 
 Built for **Cortensor Hackathon #5** (DoraHacks).
 
+**Demo video:** https://youtu.be/jezkF2jrg3g
+
 ## Why it is built this way
 
 A 1.5B local model is a weak classifier on its own. This project is about
